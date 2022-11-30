@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyTitles">
+        <item>Lost int the Mountains</item>
+        <item>What I learned in el Mar</item>
+        <item>Bright Trees by the River</item>
+        <item>The Forgotten Novel</item>
+        <item>Leaving 6450 B</item>
+        <item>Moss on a tree</item>
+        <item>Finding the Waterfall</item>
+        <item>At the Beach With You</item>
+        <item>Eternal Love</item>
+    </string-array>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title=" Home "></item>
+    <item android:title="Story App">
+        <menu>
+            <item
+                android:id="@+id/random"
+                android:title="Pick Random Story "></item>
+
+            <item
+                android:id="@+id/stories"
+                android:title="Stories "></item>
+
+            <item
+                android:id="@+id/categories"
+                android:title="Categories "></item>
+
+
+        </menu>
+    </item>
+</menu>
